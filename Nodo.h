@@ -13,8 +13,6 @@ public:
 
     Nodo* siguiente;
     Nodo* anterior;
-    Nodo* retrocede;
-    Nodo* adelanta;
     Carta* carta;
 
 
